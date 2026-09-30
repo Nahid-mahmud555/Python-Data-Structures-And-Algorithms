@@ -13,8 +13,16 @@ Welcome to my Data Structures and Algorithms (DSA) journey using **Python**! Thi
 
 ---
 
-###  Submission Proof (Valid Anagram)
+###  Submission Proofs
 
+#### **1. Contains Duplicate (LC 217)**
+<p align="center">
+  <img src="Screenshot 2026-09-30 at 09-21-03 Contains Duplicate - LeetCode.png" alt="Contains Duplicate Accepted Submission" width="700px">
+</p>
+
+---
+
+#### **2. Valid Anagram (LC 242)**
 <p align="center">
   <img src="Screenshot 2026-09-30 at 10-10-32 Valid Anagram - LeetCode.png" alt="Valid Anagram Accepted Submission" width="700px">
 </p>
