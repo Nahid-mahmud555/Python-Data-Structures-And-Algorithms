@@ -1,4 +1,4 @@
-# 🚀 DSA With Python & NeetCode 150
+#  DSA With Python & NeetCode 150
 
 Welcome to my Data Structures and Algorithms (DSA) journey using **Python**! This repository is dedicated to tracking my problem-solving progress, mastering optimal coding patterns, and preparing for technical excellence in AI Engineering, Cloud Computing, and DevSecOps.
 
