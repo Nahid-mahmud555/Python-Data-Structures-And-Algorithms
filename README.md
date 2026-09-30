@@ -1,17 +1,17 @@
-# 🚀 Python Data Structures & Algorithms (DSA)
+#  Python Data Structures & Algorithms (DSA)
 
 Welcome to my official DSA and coding portfolio repository! Built using **Python**, this workspace documents my structured journey toward mastering algorithmic patterns, problem-solving, and system thinking to support my future career in **AI Engineering, Cloud Computing, and DevSecOps**.
 
 ---
 
-## 🎯 Repository Objectives
+##  Repository Objectives
 - Consistent daily problem-solving following the industry-standard **NeetCode 150** roadmap.
 - Writing clean, optimized, and readable Python code.
 - Building a robust technical portfolio for software engineering and cloud-focused roles.
 
 ---
 
-## 📂 Topics & Categories Tracker
+##  Topics & Categories Tracker
 
 Here is the breakdown of the patterns and categories I am conquering:
 
@@ -25,7 +25,7 @@ Here is the breakdown of the patterns and categories I am conquering:
 
 ---
 
-## 📊 Recent Solved Problems
+##  Recent Solved Problems
 
 | # | Problem Name | Difficulty | Pattern / Topic | Solution Link |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ Here is the breakdown of the patterns and categories I am conquering:
 
 ---
 
-## 💻 Tech Stack & Environment
+##  Tech Stack & Environment
 * **Language:** Python 3
 * **Platform:** LeetCode
 * **Version Control:** Git & GitHub
 
 ---
 
-## ⭐ Support & Feedback
+##  Support & Feedback
 
 If you find this repository helpful or if you're also on a similar coding journey, please consider giving this repo a **Star (⭐)**! It keeps me motivated to push daily solutions and build a stronger technical portfolio. Happy Coding! 🚀
